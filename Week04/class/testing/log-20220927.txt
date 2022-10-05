@@ -1,0 +1,22 @@
+08:25:37 [Information] <LogMessage><Message>Service started; Version: 4.0.52.0; BuildType: RELEASE</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Service.InitializeService]
+08:25:37 [Error] <LogMessage><Message>Error retrieving DisplayResolution</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.MetadataManager.Metadata.DisplayResolution.GetNewValue]
+08:25:49 [Information] Default Quartz.NET properties loaded from embedded resource file [Quartz.Impl.StdSchedulerFactory]
+08:25:49 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl [Quartz.Core.SchedulerSignalerImpl]
+08:25:49 [Information] Quartz Scheduler v."3.0.7.0" created. [Quartz.Core.QuartzScheduler]
+08:25:49 [Information] RAMJobStore initialized. [Quartz.Simpl.RAMJobStore]
+08:25:49 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ [Quartz.Core.QuartzScheduler]
+08:25:49 [Information] Quartz scheduler 'DefaultQuartzScheduler' initialized [Quartz.Impl.StdSchedulerFactory]
+08:25:49 [Information] Quartz scheduler version: 3.0.7.0 [Quartz.Impl.StdSchedulerFactory]
+08:25:49 [Information] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. [Quartz.Core.QuartzScheduler]
+08:25:52 [Information] <LogMessage><Message>Cirrus Plugin Starting PollForSoftware</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.CirrusManager+<PollForSoftware>d__12.MoveNext]
+08:25:52 [Information] <LogMessage><Message>Connecting to Services URL: https://cloud.dell.com/</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.Fulfillment.FulfillmentServiceUtils.CreateConnection]
+08:25:58 [Error] <LogMessage><Message>Cirrus Plugin ProcessEntitlements exception:</Message><ExceptionList><string>The HTTP request is unauthorized with client authentication scheme 'Basic'. The authentication header received from the server was 'Basic realm="AMERICAS"'.</string><string>The remote server returned an error: (401) Unauthorized.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.ProcessEntitlements.GetEntitlements]
+08:25:58 [Error] <LogMessage><Message>Cirrus Plugin PollForSoftware exception:</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.CirrusManager+<PollForSoftware>d__12.MoveNext]
+15:27:58 [Error] <LogMessage><Message>Error retrieving DisplayResolution</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.MetadataManager.Metadata.DisplayResolution.GetNewValue]

@@ -1,0 +1,5 @@
+07:10:22 [Information] <LogMessage><Message>Repository has no download requests to process</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.DownloadPlugin.DownloadPluginTask+<ProcessDownloadRequests>d__2.MoveNext]
+13:42:09 [Error] <LogMessage><Message>Error retrieving DisplayResolution</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.MetadataManager.Metadata.DisplayResolution.GetNewValue]
+21:30:08 [Information] Scheduler "DefaultQuartzScheduler_$_NON_CLUSTERED" shutting down. [Quartz.Core.QuartzScheduler]
+21:30:08 [Information] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused. [Quartz.Core.QuartzScheduler]
+21:30:08 [Information] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED Shutdown complete. [Quartz.Core.QuartzScheduler]

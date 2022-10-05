@@ -1,0 +1,103 @@
+08:33:40 [Information] <LogMessage><Message>Repository has no download requests to process</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.DownloadPlugin.DownloadPluginTask+<ProcessDownloadRequests>d__2.MoveNext]
+08:33:40 [Error] <LogMessage><Message>System.AggregateException: One or more errors occurred. ---&gt; System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---&gt; System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteTransaction.Begin(Boolean deferredLock)
+   at System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   at System.Data.Entity.Core.Objects.ObjectContext.&lt;ExecuteInTransactionAsync&gt;d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.&lt;SaveChangesToStoreAsync&gt;d__39.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.&lt;SaveChangesInternalAsync&gt;d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dell.D3.Repository.SQLite.ClientDataSQLiteRepository.&lt;UpdateAsync&gt;d__10`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dell.D3.Repository.EntityUpdateHelper.&lt;UpdatePluginTaskEntityAsync&gt;d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dell.D3.WinSvc.Plugins.PluginTask.&lt;Execute&gt;d__25.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Dell.D3.WinSvc.PluginManager.ShadowLoader.ExecutePluginTaskSync(String pluginType, String pluginTaskName, PluginContext context)
+   at Dell.D3.WinSvc.PluginManager.ShadowLoader.ExecutePluginTaskSync(String pluginType, String pluginTaskName, PluginContext context)
+   at Dell.D3.WinSvc.PluginManager.Loader.SyncExecute(String pluginType, String pluginTask, Boolean isRetry)
+---&gt; (Inner Exception #0) System.Data.Entity.Core.EntityException: An error occurred while starting a transaction on the provider connection. See the inner exception for details. ---&gt; System.Data.SQLite.SQLiteException: database is locked
+database is locked
+   at System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt)
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteTransaction.Begin(Boolean deferredLock)
+   at System.Data.SQLite.SQLiteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.BeginTransaction(DbConnection connection, BeginTransactionInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   at System.Data.Entity.Core.Objects.ObjectContext.&lt;ExecuteInTransactionAsync&gt;d__3d`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.&lt;SaveChangesToStoreAsync&gt;d__39.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Data.Entity.Core.Objects.ObjectContext.&lt;SaveChangesInternalAsync&gt;d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dell.D3.Repository.SQLite.ClientDataSQLiteRepository.&lt;UpdateAsync&gt;d__10`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dell.D3.Repository.EntityUpdateHelper.&lt;UpdatePluginTaskEntityAsync&gt;d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Dell.D3.WinSvc.Plugins.PluginTask.&lt;Execute&gt;d__25.MoveNext()&lt;---
+</Message><ExceptionList><string>One or more errors occurred.</string><string>An error occurred while starting a transaction on the provider connection. See the inner exception for details.</string><string>database is locked
+database is locked</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.PluginManager.Loader.SyncExecute]
+12:30:27 [Information] <LogMessage><Message>Service started; Version: 4.0.52.0; BuildType: RELEASE</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Service.InitializeService]
+12:30:27 [Error] <LogMessage><Message>Error retrieving DisplayResolution</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.MetadataManager.Metadata.DisplayResolution.GetNewValue]
+12:30:32 [Information] Default Quartz.NET properties loaded from embedded resource file [Quartz.Impl.StdSchedulerFactory]
+12:30:32 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl [Quartz.Core.SchedulerSignalerImpl]
+12:30:32 [Information] Quartz Scheduler v."3.0.7.0" created. [Quartz.Core.QuartzScheduler]
+12:30:32 [Information] RAMJobStore initialized. [Quartz.Simpl.RAMJobStore]
+12:30:32 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ [Quartz.Core.QuartzScheduler]
+12:30:32 [Information] Quartz scheduler 'DefaultQuartzScheduler' initialized [Quartz.Impl.StdSchedulerFactory]
+12:30:32 [Information] Quartz scheduler version: 3.0.7.0 [Quartz.Impl.StdSchedulerFactory]
+12:30:32 [Information] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. [Quartz.Core.QuartzScheduler]
+12:30:34 [Information] <LogMessage><Message>Cirrus Plugin Starting PollForSoftware</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.CirrusManager+<PollForSoftware>d__12.MoveNext]
+12:30:34 [Information] <LogMessage><Message>Connecting to Services URL: https://cloud.dell.com/</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.Fulfillment.FulfillmentServiceUtils.CreateConnection]
+12:30:35 [Error] <LogMessage><Message>Cirrus Plugin PollForSoftware exception:</Message><ExceptionList><string>There was no endpoint listening at https://cloud.dell.com/ClientServices/Client.svc/v1/Client/Config?r=_upgradePath2 that could accept the message. This is often caused by an incorrect address or SOAP action. See InnerException, if present, for more details.</string><string>The remote name could not be resolved: 'cloud.dell.com'</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.CirrusManager+<PollForSoftware>d__12.MoveNext]
+16:50:15 [Error] <LogMessage><Message>MessageSync failed</Message><ExceptionList><string>An error occurred while sending the request.</string><string>The remote name could not be resolved: 'securityapi.d3-pr-tm.com'</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.MessageSyncPlugin.MessageSyncPluginTask+<ExecuteTask>d__5.MoveNext]

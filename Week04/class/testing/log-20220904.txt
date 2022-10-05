@@ -1,0 +1,2 @@
+12:54:11 [Information] <LogMessage><Message>Repository has no download requests to process</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.DownloadPlugin.DownloadPluginTask+<ProcessDownloadRequests>d__2.MoveNext]
+12:54:11 [Error] <LogMessage><Message>Error retrieving DisplayResolution</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.MetadataManager.Metadata.DisplayResolution.GetNewValue]

@@ -1,0 +1,21 @@
+19:44:36 [Information] <LogMessage><Message>Service started; Version: 4.0.52.0; BuildType: RELEASE</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Service.InitializeService]
+19:44:37 [Error] <LogMessage><Message>Error retrieving DisplayResolution</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.MetadataManager.Metadata.DisplayResolution.GetNewValue]
+19:44:55 [Information] Default Quartz.NET properties loaded from embedded resource file [Quartz.Impl.StdSchedulerFactory]
+19:44:55 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl [Quartz.Core.SchedulerSignalerImpl]
+19:44:55 [Information] Quartz Scheduler v."3.0.7.0" created. [Quartz.Core.QuartzScheduler]
+19:44:55 [Information] RAMJobStore initialized. [Quartz.Simpl.RAMJobStore]
+19:44:55 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.7.0) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ [Quartz.Core.QuartzScheduler]
+19:44:55 [Information] Quartz scheduler 'DefaultQuartzScheduler' initialized [Quartz.Impl.StdSchedulerFactory]
+19:44:55 [Information] Quartz scheduler version: 3.0.7.0 [Quartz.Impl.StdSchedulerFactory]
+19:44:55 [Information] Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started. [Quartz.Core.QuartzScheduler]
+19:44:58 [Information] <LogMessage><Message>Cirrus Plugin Starting PollForSoftware</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.CirrusManager+<PollForSoftware>d__12.MoveNext]
+19:44:58 [Information] <LogMessage><Message>Connecting to Services URL: https://cloud.dell.com/</Message><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.Fulfillment.FulfillmentServiceUtils.CreateConnection]
+19:45:19 [Error] <LogMessage><Message>Cirrus Plugin PollForSoftware exception:</Message><ExceptionList><string>The remote server returned an unexpected response: (502) Bad Gateway.</string><string>The remote server returned an error: (502) Bad Gateway.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.Plugins.CirrusPlugin.CirrusManager+<PollForSoftware>d__12.MoveNext]
+20:30:28 [Error] <LogMessage><Message>Error retrieving DisplayResolution</Message><ExceptionList><string>Object reference not set to an instance of an object.</string></ExceptionList><MessageFields /></LogMessage> [Dell.D3.WinSvc.MetadataManager.Metadata.DisplayResolution.GetNewValue]
