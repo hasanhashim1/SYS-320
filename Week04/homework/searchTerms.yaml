@@ -1,0 +1,9 @@
+---
+
+SHELL: ".*cmd.exe.*, .*c99.php.*, .*'/bin/sh'.*"
+  
+SQL: ".*/phpmyadmin.*, .*mysql.*"
+
+TRV: ".*/etc/passwd.*, .*'\\.\\..*'"
+
+CMS: ".*joomla.*, .*wordpress.*, .*xmlrpc.*"
