@@ -8,66 +8,66 @@ parser = argparse.ArgumentParser(
     epilog="Developed by Hasan Hashim, 20220930"
 )
 
+# add an argument to pass
+parser.add_argument("-d", "--directory", required=True, help="Directory that you want to traverse")
 
-# Add argument to fs.py
-parser.add_argument(
-    "-d",
-    "--directory",
-    required=True,
-    help="Directory that you want to traverse.",
-)
-
-# Parse arguments
+# parse the arguments
 args = parser.parse_args()
 
 rootdir = args.directory
 
-# In our story, we will traverse a directory
-# Check if the argument is a directory
+# check if the given argument is a directory
+
 if not os.path.isdir(rootdir):
-    print(f"Invalid directory => {rootdir}")
-    sys.exit()
-
-# List to save files
-f_list = []
-
+    print(f"Invalid Directory => {rootdir}")
+    exit()
+# list to save files
+fList = []
 # Crawl through the provided directory
-for root, _, filenames in os.walk(rootdir):
+for root, subfolders, filenames in os.walk(rootdir):
 
     for f in filenames:
+        #windows
+        # fileList = rootdir + "\\" + f
 
-        f_list.append(root + "/" + f)
+        #linux
+        fileList = rootdir + "/" + f
+        # print(fileList)
 
+        fList.append(fileList)
 
-def stat_file(to_stat):
-    # i is going to be the variable used for each of the metadata elements
-    i = os.stat(to_stat, follow_symlinks=False)
+def statFile(toStat):
+
+    # i is going to be the varible for used for each of the metadata elements
+    i = os.stat(toStat, follow_symlinks=False)
 
     # mode
     mode = i[0]
+
     # inode
     inode = i[1]
+
     # uid
     uid = i[4]
-    # gid
-    gid = i[5]
+
+    # guid
+    guid = i[5]
+
     # file size
     fsize = i[6]
+
     # access time
     atime = i[7]
+
     # modification time
     mtime = i[8]
-    # ctime => windows: birth of file, creation time
-    #          unix: when attributes of the file change
+
+    # ctime windows is the birth of the file , when it was created
     ctime = i[9]
+
     crtime = i[9]
 
-    print(
-        "0|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}".format(
-            to_stat, mode, inode, uid, gid, fsize, atime, mtime, ctime, crtime
-        )
-    )
+    print("0|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}".format(toStat, inode, mode, uid, guid, fsize, atime, mtime, ctime, crtime))
 
-
-for each_file in f_list:
-    stat_file(each_file)
+for eachFile in fList:
+    statFile(eachFile)
