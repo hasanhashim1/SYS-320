@@ -1,0 +1,10 @@
+### Reflections
+
+# Do you see anything of concern with the attempts to obtain a shell?  Provide a brief explanation.
+I did see 200 on the shell responses, and it comes form the same ip address so that rihgt there is a concers. 
+
+# What did you like the most and least about this assignment?
+I loved how we use yaml to search for tearms, It was kinda intersting to me how we can search for multiple log at the same time.
+
+# What additional questions do you have?
+I'm good so far I did not have any problmes.
