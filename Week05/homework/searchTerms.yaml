@@ -1,0 +1,59 @@
+# By Hasan Hashim
+---
+# Here I'm building a rules for searching logs in Registry
+credential_collection:
+  description: "Credentials Collection In The Registry"
+  type: "Credential Collection"
+  search:
+    - 'HKLM\SYSTEM\CurrentControlSet\Control\Lsa'
+---
+# Here I'm building a rules for searching logs for javascript or VBScript
+javascript_or_vbscript:
+  description: "JavaScript Or VBScript"
+  type: "JavaScript or VBScript"
+  search:
+    - "mshta"
+    - "mshta.exe"
+    - ".hta"
+    - "vbscript:"
+    - "about:"
+    - "javascript:"
+    - "regHead"
+    - "wscript.Shell"
+    - "cscript"
+    - "jscript"
+    - "sscript"
+    - "Regsvr32"
+---
+# Here I'm building a rules for searching logs for Powershell
+powershell:
+  description: "Powershell executions"
+  type: "Powershell Execution"
+  search:
+    - powershell.exe 
+    - powershell
+    - ps1
+    - psm1
+    - PSLockdownPolicy
+    - ExecutionContext.SessionState.LanguageMode
+    - Net.WebClient
+    - iex
+    - Invoke-
+    - TOKEN_IMPERSONATE
+    - TOKEN_DUPLICATE
+    - TOKEN_ADJUST_PRIVILEGES
+    - TOKEN_PRIVILEGES
+    - GetDelegateForFunctionPointer
+    - System.Reflection.AssemblyName
+    - System.Reflection.Emit.AssemblyBuilderAccess
+    - System.MulticastDelegate
+    - System.Reflection.CallingConventions
+    - Get-GPPPassword
+    - System.Security.Cryptography.AesCryptoServiceProvider
+    - 0x4e,0x99,0x06,0xe8,0xfc,0xb6,0x6c,0xc9,0xfa,0xf4
+    - Groups.User.Properties.cpassword
+    - ScheduledTasks.Task.Properties.cpassword
+    - System.Management.Automation.WindowsErrorReporting
+    - Out-MiniDump
+    - MiniDumpWriteDump
+    - ExecutionPolicyPSRemoting
