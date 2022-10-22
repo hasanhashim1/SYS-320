@@ -1,0 +1,46 @@
+### BEGIN echo "hasan test" > h.txt ###
+
+### END echo "hasan test" > h.txt ###
+
+### BEGIN cat h.txt ###
+
+hasan test
+### END cat h.txt ###
+
+### BEGIN ls ###
+
+Desktop
+Documents
+Downloads
+h.txt
+Music
+Pictures
+Public
+Templates
+userrecon
+Videos
+### END ls ###
+
+### BEGIN echo "hasan test" > h.txt ###
+
+### END echo "hasan test" > h.txt ###
+
+### BEGIN cat h.txt ###
+
+hasan test
+### END cat h.txt ###
+
+### BEGIN ls ###
+
+Desktop
+Documents
+Downloads
+h.txt
+Music
+Pictures
+Public
+Templates
+userrecon
+Videos
+### END ls ###
+
