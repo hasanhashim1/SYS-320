@@ -44,3 +44,19 @@ userrecon
 Videos
 ### END ls ###
 
+### BEGIN ls ###
+
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Public
+Remote_Login
+script.py
+sudo
+Templates
+userrecon
+Videos
+### END ls ###
+
