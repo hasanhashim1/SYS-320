@@ -1,17 +1,17 @@
 
-### kraken output - 2022-10-31 12:21:59 ###
+### kraken output - 2022-10-31 21:26:36 ###
 INFO[0000] Looking for configuration file with name config.yaml 
 INFO[0000] No configuration file found, generating a default one... 
 INFO[0000] Loading Yara rules...                        
 INFO[0000] Scanning running processes...                
-WARN[0012] DETECTION! Malicious process detected as foundGoBinary  pid=519423 process=snapd
-WARN[0013] DETECTION! Malicious process detected as foundGoBinary  pid=561559 process=egrep
-INFO[0015] Scanning autoruns...                         
-WARN[0015] DETECTION! Malicious autorun detected as foundGoBinary  image_path=/usr/bin/snap type=systemd
-WARN[0016] DETECTION! Malicious autorun detected as foundGoBinary  image_path=/usr/bin/snap type=systemd
-INFO[0016] Scanning the filesystem (this can take several minutes)... 
-ERRO[0016] Some malicious artifacts have been detected on this system: 
-ERRO[0016] Found detection for foundGoBinary            
-ERRO[0016] Found detection for foundGoBinary            
-ERRO[0016] Found detection for foundGoBinary            
-ERRO[0016] Found detection for foundGoBinary            
+WARN[0013] DETECTION! Malicious process detected as foundGoBinary  pid=519423 process=snapd
+WARN[0014] DETECTION! Malicious process detected as foundGoBinary  pid=561559 process=egrep
+INFO[0022] Scanning autoruns...                         
+WARN[0023] DETECTION! Malicious autorun detected as foundGoBinary  image_path=/usr/bin/snap type=systemd
+WARN[0023] DETECTION! Malicious autorun detected as foundGoBinary  image_path=/usr/bin/snap type=systemd
+INFO[0024] Scanning the filesystem (this can take several minutes)... 
+ERRO[0024] Some malicious artifacts have been detected on this system: 
+ERRO[0024] Found detection for foundGoBinary            
+ERRO[0024] Found detection for foundGoBinary            
+ERRO[0024] Found detection for foundGoBinary            
+ERRO[0024] Found detection for foundGoBinary            
