@@ -1,0 +1,352 @@
+#TYPE Selected.System.Diagnostics.Process
+"ProcessName","Id","Path"
+"afwServ","7184",
+"AggregatorHost","10048",
+"AppleMobileDeviceService","7360",
+"ApplicationFrameHost","20196","C:\WINDOWS\system32\ApplicationFrameHost.exe"
+"aswEngSrv","6228",
+"aswidsagent","7096",
+"aswToolsSvc","5768",
+"audiodg","20624",
+"AvastBrowserCrashHandler","14808",
+"AvastBrowserCrashHandler64","14860",
+"AvastSvc","5352",
+"AvastUI","19680","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"AvastUI","27572","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"AvastUI","27596","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"AvastUI","27608","C:\Program Files\Avast Software\Avast\AvastUI.exe"
+"AWCC","2524","C:\Program Files\WindowsApps\DellInc.AlienwareCommandCenter_5.5.18.0_x64__htrsf667h5kn2\AWCC.exe"
+"AWCC.Background.Server","3312","C:\Program Files\Alienware\Alienware Command Center\AWCC.Background.Server.exe"
+"AWCC.Service","14956",
+"BackgroundDownload","5508","C:\Users\Hasan\AppData\Local\Temp\cdzl1ub0.5s2\resources\app\ServiceHub\Services\Microsoft.VisualStudio.Setup.Service\BackgroundDownload.exe"
+"browserhost","26500","C:\Program Files\McAfee\WebAdvisor\browserhost.exe"
+"chrome","2000","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","3864","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","4744","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","6244","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","7680","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","8780","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","9984","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","10096","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","11204","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","12188","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","12592","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","13180","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","14132","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","14300","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","14324","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","15228","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","15480","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","16100","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","19264","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","20784","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","21252","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","21816","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","22732","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","23856","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","23944","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24092","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24112","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24124","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24616","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24684","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24772","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","24804","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","25448","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","25928","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","26088","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","26248","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","26976","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","26988","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","27000","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","27412","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","27860","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","27952","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","28508","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"chrome","28616","C:\Program Files\Google\Chrome\Application\chrome.exe"
+"cmd","24284","C:\WINDOWS\system32\cmd.exe"
+"cmd","24300","C:\WINDOWS\system32\cmd.exe"
+"Code","14916","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","26404","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","27820","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","28136","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","28664","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","29028","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","29108","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","29260","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"Code","29428","C:\Users\Hasan\AppData\Local\Programs\Microsoft VS Code\Code.exe"
+"CodeSetup-stable-8fa188b2b301d36553cbc9ce1b0a146ccb93351f","24596","C:\Users\Hasan\AppData\Local\Temp\vscode-update-user-x64\CodeSetup-stable-8fa188b2b301d36553cbc9ce1b0a146ccb93351f.exe"
+"CodeSetup-stable-8fa188b2b301d36553cbc9ce1b0a146ccb93351f.tmp","29240","C:\Users\Hasan\AppData\Local\Temp\is-58TGR.tmp\CodeSetup-stable-8fa188b2b301d36553cbc9ce1b0a146ccb93351f.tmp"
+"conhost","7336","C:\WINDOWS\system32\conhost.exe"
+"conhost","11136","C:\WINDOWS\system32\conhost.exe"
+"conhost","11904",
+"conhost","12004","C:\WINDOWS\system32\conhost.exe"
+"conhost","12652",
+"conhost","12820",
+"conhost","14256",
+"conhost","19852","C:\WINDOWS\system32\conhost.exe"
+"conhost","20672","C:\WINDOWS\system32\conhost.exe"
+"Cortana","22120","C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_4.2204.13303.0_x64__8wekyb3d8bbwe\Cortana.exe"
+"crashpad_handler","15736","C:\Program Files\Google\Drive File Stream\65.0.4.0\crashpad_handler.exe"
+"crashpad_handler","20148","C:\Program Files\Google\Drive File Stream\65.0.4.0\crashpad_handler.exe"
+"csrss","1156",
+"csrss","1280",
+"ctfmon","17972",
+"dasHost","4076",
+"dasHost","4928",
+"DDVCollectorSvcApi","4228",
+"DDVDataCollector","4476",
+"DDVRulesProcessor","12672",
+"Dell.D3.WinSvc","23008",
+"DellSupportAssistRemedationService","16956",
+"Discord","2140","C:\Users\Hasan\AppData\Local\Discord\app-1.0.9007\Discord.exe"
+"Discord","17508","C:\Users\Hasan\AppData\Local\Discord\app-1.0.9007\Discord.exe"
+"Discord","21352","C:\Users\Hasan\AppData\Local\Discord\app-1.0.9007\Discord.exe"
+"Discord","21780","C:\Users\Hasan\AppData\Local\Discord\app-1.0.9007\Discord.exe"
+"Discord","22004","C:\Users\Hasan\AppData\Local\Discord\app-1.0.9007\Discord.exe"
+"Discord","22080","C:\Users\Hasan\AppData\Local\Discord\app-1.0.9007\Discord.exe"
+"dllhost","16612","C:\WINDOWS\system32\DllHost.exe"
+"dptf_helper","13908","C:\WINDOWS\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_1da48d5885266bb7\dptf_helper.exe"
+"DriverUpdSvc","7464",
+"DSAPI","11048",
+"dwm","1956",
+"esif_uf","7848",
+"explorer","4604","C:\WINDOWS\explorer.exe"
+"explorer","15292","C:\WINDOWS\Explorer.EXE"
+"FESearchHost","24828","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\FESearchHost.exe"
+"fontdrvhost","1540",
+"fontdrvhost","1788",
+"ftnlsv","7636",
+"ftscanmgrhv","7560",
+"GameBar","10560","C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.822.9161.0_x64__8wekyb3d8bbwe\GameBar.exe"
+"GameBarFTServer","22556","C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.822.9161.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe"
+"GameLibraryAppService","24796","C:\Program Files\WindowsApps\DellInc.AlienwareCommandCenter_5.5.18.0_x64__htrsf667h5kn2\GameLibrary\GameLibraryAppService.exe"
+"GoogleDriveFS","19468","C:\Program Files\Google\Drive File Stream\65.0.4.0\GoogleDriveFS.exe"
+"GoogleDriveFS","19864","C:\Program Files\Google\Drive File Stream\65.0.4.0\GoogleDriveFS.exe"
+"GoogleDriveFS","20568","C:\Program Files\Google\Drive File Stream\65.0.4.0\GoogleDriveFS.exe"
+"GoogleDriveFS","20792","C:\Program Files\Google\Drive File Stream\65.0.4.0\GoogleDriveFS.exe"
+"GoogleDriveFS","20816","C:\Program Files\Google\Drive File Stream\65.0.4.0\GoogleDriveFS.exe"
+"GoogleDriveFS","20928","C:\Program Files\Google\Drive File Stream\65.0.4.0\GoogleDriveFS.exe"
+"GoogleDriveFS","20952","C:\Program Files\Google\Drive File Stream\65.0.4.0\GoogleDriveFS.exe"
+"horizon_client_service","7436",
+"Idle","0",
+"igfxCUIService","3480",
+"igfxEM","1268","C:\WINDOWS\System32\DriverStore\FileRepository\cui_dch.inf_amd64_7208949846a9b9dc\igfxEM.exe"
+"IntelAudioService","7524",
+"IntelCpHDCPSvc","2632",
+"IntelCpHeciSvc","3144",
+"jhi_service","8176",
+"KAPS","12852",
+"KAPSService","12776",
+"KillerAnalyticsService","7540",
+"KillerNetworkService","7984",
+"KNDBWM","12700",
+"KNDBWMService","10928",
+"LsaIso","1340",
+"lsass","1364",
+"mcafee-security","10176","C:\Program Files\WindowsApps\5A894077.McAfeeSecurity_2.1.68.0_x64__wafk5atnkzcwy\mcafee-security.exe"
+"mcafee-security-ft","4056","C:\Program Files\WindowsApps\5A894077.McAfeeSecurity_2.1.68.0_x64__wafk5atnkzcwy\Win32\mcafee-security-ft.exe"
+"mcapexe","4372",
+"McCSPServiceHost","2132",
+"mcshield","18180",
+"McUICnt","17788","C:\Program Files\Common Files\McAfee\Platform\McUICnt.exe"
+"mDNSResponder","7504",
+"Memory Compression","4276",
+"MfeAVSvc","17456",
+"MfeBrowserHost","26408","C:\Program Files\McAfee\MSC\MfeBrowserHost.exe"
+"mfemms","7668",
+"mfevtps","10516",
+"MiniSearchHost","20828","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\MiniSearchHost.exe"
+"MMSSHOST","10264",
+"ModuleCoreService","7628",
+"ModuleCoreService","11896",
+"ModuleCoreService","19840","C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe"
+"msedgewebview2","22772","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\107.0.1418.26\msedgewebview2.exe"
+"msedgewebview2","22828","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\107.0.1418.26\msedgewebview2.exe"
+"msedgewebview2","23036","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\107.0.1418.26\msedgewebview2.exe"
+"msedgewebview2","23048","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\107.0.1418.26\msedgewebview2.exe"
+"msedgewebview2","23072","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\107.0.1418.26\msedgewebview2.exe"
+"msedgewebview2","23208","C:\Program Files (x86)\Microsoft\EdgeWebView\Application\107.0.1418.26\msedgewebview2.exe"
+"msteams","22040","C:\Program Files\WindowsApps\MicrosoftTeams_22273.905.1632.1008_x64__8wekyb3d8bbwe\msteams.exe"
+"NahimicService","7548",
+"NahimicSvc32","11496",
+"NahimicSvc64","1052",
+"nvapiw","26344",
+"NVDisplay.Container","2908",
+"NVDisplay.Container","12380",
+"OCControl.Service","3132",
+"OfficeClickToRun","7496",
+"OneApp.IGCC.WinService","7428",
+"OneDrive","19712","C:\Users\Hasan\AppData\Local\Microsoft\OneDrive\OneDrive.exe"
+"openvpn-gui","20200","C:\Program Files\OpenVPN\bin\openvpn-gui.exe"
+"openvpnserv","7512",
+"PEFService","7592",
+"PhoneExperienceHost","17624","C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22082.119.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe"
+"powershell","29648","C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe"
+"powershell_ise","29444","C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe"
+"PresentationFontCache","15332",
+"ProtectedModuleHost","10748",
+"QcShm","3732",
+"Registry","184",
+"RstMwService","7696",
+"RtkAudUService64","5456",
+"RtkAudUService64","7576",
+"RtkAudUService64","19080","C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_be03f2dca68bf962\RtkAudUService64.exe"
+"RuntimeBroker","3844","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","13240","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","16124","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","16228","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","16284","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","17736","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","20180","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","22516","C:\Windows\System32\RuntimeBroker.exe"
+"RuntimeBroker","24528","C:\Windows\System32\RuntimeBroker.exe"
+"SearchHost","16072","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe"
+"SearchIndexer","11832",
+"SearchProtocolHost","21028",
+"Secure System","140",
+"SecurityHealthService","18636",
+"SecurityHealthSystray","18532","C:\Windows\System32\SecurityHealthSystray.exe"
+"servicehost","16804",
+"services","1332",
+"ServiceShell","11984",
+"SgrmBroker","15468",
+"sihost","14172","C:\WINDOWS\system32\sihost.exe"
+"smss","732",
+"spacedeskService","7620",
+"spacedeskServiceTray","13932","C:\WINDOWS\System32\spacedeskServiceTray.exe"
+"spoolsv","5928",
+"StartMenuExperienceHost","16060","C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe"
+"SupportAssistAgent","17264",
+"svchost","1072",
+"svchost","1084",
+"svchost","1108",
+"svchost","1112",
+"svchost","1388",
+"svchost","1448",
+"svchost","1508",
+"svchost","1652",
+"svchost","1784",
+"svchost","1848",
+"svchost","2060",
+"svchost","2204",
+"svchost","2208",
+"svchost","2292",
+"svchost","2336",
+"svchost","2348",
+"svchost","2588",
+"svchost","2596",
+"svchost","2644",
+"svchost","2664",
+"svchost","2700",
+"svchost","2808",
+"svchost","2872",
+"svchost","2992",
+"svchost","3040",
+"svchost","3076",
+"svchost","3208",
+"svchost","3256",
+"svchost","3296",
+"svchost","3432",
+"svchost","3588",
+"svchost","3596",
+"svchost","3912",
+"svchost","3952",
+"svchost","3976",
+"svchost","4116",
+"svchost","4144",
+"svchost","4152",
+"svchost","4176","C:\WINDOWS\system32\svchost.exe"
+"svchost","4404",
+"svchost","4584",
+"svchost","4596",
+"svchost","4704",
+"svchost","4880",
+"svchost","4996",
+"svchost","5024",
+"svchost","5044",
+"svchost","5052",
+"svchost","5128",
+"svchost","5168",
+"svchost","5240","C:\WINDOWS\system32\svchost.exe"
+"svchost","5316",
+"svchost","5424",
+"svchost","5940",
+"svchost","6000",
+"svchost","7004",
+"svchost","7404",
+"svchost","7480",
+"svchost","7488",
+"svchost","7568",
+"svchost","7648",
+"svchost","7660",
+"svchost","7684",
+"svchost","7776",
+"svchost","7952",
+"svchost","8088",
+"svchost","8788",
+"svchost","9924","C:\WINDOWS\system32\svchost.exe"
+"svchost","10020",
+"svchost","10456",
+"svchost","10824",
+"svchost","11744",
+"svchost","11828","C:\WINDOWS\system32\svchost.exe"
+"svchost","12144",
+"svchost","12416",
+"svchost","12620",
+"svchost","12692",
+"svchost","13080",
+"svchost","13468",
+"svchost","14088","C:\WINDOWS\system32\svchost.exe"
+"svchost","14096",
+"svchost","14124",
+"svchost","14136","C:\WINDOWS\system32\svchost.exe"
+"svchost","14160","C:\WINDOWS\system32\svchost.exe"
+"svchost","14192",
+"svchost","14392",
+"svchost","14676",
+"svchost","14696","C:\WINDOWS\system32\svchost.exe"
+"svchost","17764",
+"svchost","19052",
+"svchost","19492",
+"svchost","19584",
+"svchost","22100",
+"svchost","22200",
+"svchost","22256",
+"svchost","22292",
+"svchost","22532","C:\WINDOWS\system32\svchost.exe"
+"svchost","24852",
+"svchost","29040",
+"svchost","29476",
+"System","4",
+"SystemSettings","10544","C:\Windows\ImmersiveControlPanel\SystemSettings.exe"
+"taskhostw","14340","C:\WINDOWS\system32\taskhostw.exe"
+"taskhostw","17084",
+"TbtP2pShortcutService","7584",
+"TextInputHost","15508","C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe"
+"ThunderboltService","7600",
+"TuneupSvc","7420",
+"uihost","17924","C:\Program Files\McAfee\WebAdvisor\UIHost.exe"
+"unsecapp","10148",
+"Video.UI","23768","C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22091.10031.0_x64__8wekyb3d8bbwe\Video.UI.exe"
+"vmcompute","7612",
+"vmnat","7764",
+"vmnetdhcp","7724",
+"vmware-authd","7712",
+"vmware-usbarbitrator64","7752",
+"vmwsprrdpwks","7816",
+"VpnSvc","7472",
+"WindscribeService","7864",
+"wininit","1256",
+"winlogon","1740",
+"wlanext","14248",
+"WmiPrvSE","5796",
+"WmiPrvSE","9172",
+"WMIRegistrationService","8044",
+"wsc_proxy","4124",
+"WUDFHost","1588",
+"WUDFHost","2504",
+"WUDFHost","5592",
+"XtuService","3548",
+"zerotier_desktop_ui","18928","C:\Program Files (x86)\ZeroTier\One\zerotier_desktop_ui.exe"
+"zerotier-one_x64","7992",
