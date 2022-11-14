@@ -1,0 +1,6 @@
+What did you like the most and least about this assignment?
+-- The ability to copy and rename files with copy-item was something I liked the most.
+
+What additional questions do you have?
+-- I am building a GUI app in Python that connects to the target via SSH, executes a command, and saves the output. 
+The question I have is how can I use PowerShell scripts in Python?
