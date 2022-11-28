@@ -37,7 +37,7 @@ Out-File -FilePath "ips-bad.tmp"
 Write-Host "This program made by Hasan Hashim" -ForegroundColor Green
 # Asking the user input to choose ether Windows or IPTables
 #$rule_type = Read-Host -Prompt "Please enter Windows or IPTables: " -ForegroundColor Green
-$rule_type = $(Write-Host "Please enter Windows or IPTables: "  -ForegroundColor yellow -NoNewLine; Read-Host).trim()
+$rule_type = $(Write-Host "Please enter IPTables or Windows: "  -ForegroundColor yellow -NoNewLine; Read-Host).trim()
 
 
 # Here we are using switch to take the user inputes and do the following
