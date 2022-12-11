@@ -160,8 +160,8 @@ foreach ($f in $fileList) {
 # Readme.READ created
 $mess = "C:\Users\Hasan\Desktop\Champlain-classes\SYS-320\Week13\Homework\Readme.READ"
 
-# $msg added to $Readme.READ
-Write-Output "If you want your files restored, please contact me at dunston@champlain.edu. I look forward to doing business with you." > "C:\Users\Hasan\Desktop\Champlain-classes\SYS-320\Week13\Homework\Readme.READ"
+
+Write-Output "This is a week 13 Homework" > $mess
 
 # Checks if Readme.READ file exists
 if (Test-Path -Path $mess){
