@@ -1,0 +1,7 @@
+Reflection:
+
+What did you like the most and least about this assignment?
+I like how we can zip a folder and send it to the host using ssh.
+
+What additional questions do you have?
+SO far so good!
