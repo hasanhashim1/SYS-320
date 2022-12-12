@@ -1,0 +1,240 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Audits\Commercial_audit_checklist_tool.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Audits","Commercial_audit_checklist_tool.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Audits\Commercial_audit_checklist_tool.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Commercial_audit_checklist_tool","System.Collections.Generic.List`1[System.String]",,"Commercial_audit_checklist_tool.xlsx","221129","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Audits","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Audits","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Audits\Commercial_audit_checklist_tool.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 8:54:46 AM","7/14/2016 12:54:46 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","DoD_Master_Office_2010_Settings_v1.0.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DoD_Master_Office_2010_Settings_v1.0","System.Collections.Generic.List`1[System.String]",,"DoD_Master_Office_2010_Settings_v1.0.xlsx","319973","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 11:02:56 AM","7/14/2016 3:02:56 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","Microsoft Office 2010 Service Pack 1 Changes.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Microsoft Office 2010 Service Pack 1 Changes","System.Collections.Generic.List`1[System.String]",,"Microsoft Office 2010 Service Pack 1 Changes.xlsx","40225","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 11:02:28 AM","7/14/2016 3:02:28 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","thoughtfarmer-intranet-content-migration-worksheet.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","thoughtfarmer-intranet-content-migration-worksheet","System.Collections.Generic.List`1[System.String]",,"thoughtfarmer-intranet-content-migration-worksheet.xlsx","30931","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 11:02:36 AM","7/14/2016 3:02:36 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","3yr-Project-Financial-Report-Template.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","3yr-Project-Financial-Report-Template","System.Collections.Generic.List`1[System.String]",,"3yr-Project-Financial-Report-Template.xlsx","145129","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","1/22/2017 8:02:26 PM","1/23/2017 1:02:26 AM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","82808-Annual Report Financial Overview Template and Graphs.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","82808-Annual Report Financial Overview Template and Graphs","System.Collections.Generic.List`1[System.String]",,"82808-Annual Report Financial Overview Template and Graphs.xlsx","3079772","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","1/22/2017 8:02:42 PM","1/23/2017 1:02:42 AM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","FinancialStatementFY12Q2.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","FinancialStatementFY12Q2","System.Collections.Generic.List`1[System.String]",,"FinancialStatementFY12Q2.xlsx","78249","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 11:02:22 AM","7/14/2016 3:02:22 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","GPAF IMP 067 Annual Financial Report 300414.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","GPAF IMP 067 Annual Financial Report 300414","System.Collections.Generic.List`1[System.String]",,"GPAF IMP 067 Annual Financial Report 300414.xlsx","184360","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","1/22/2017 8:03:26 PM","1/23/2017 1:03:26 AM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","SBR FY 2016 Annual Report Template 7-21-16 Final","System.Collections.Generic.List`1[System.String]",,"SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","47716","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","1/22/2017 8:02:24 PM","1/23/2017 1:02:24 AM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\2010AdoptedScienceStandards.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","2010AdoptedScienceStandards.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\2010AdoptedScienceStandards.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","2010AdoptedScienceStandards","System.Collections.Generic.List`1[System.String]",,"2010AdoptedScienceStandards.pdf","528847","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\2010AdoptedScienceStandards.pdf",".pdf","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 8:53:06 AM","7/14/2016 12:53:06 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\cle-other-science.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","cle-other-science.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\cle-other-science.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","cle-other-science","System.Collections.Generic.List`1[System.String]",,"cle-other-science.pdf","491735","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\cle-other-science.pdf",".pdf","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 8:52:46 AM","7/14/2016 12:52:46 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","K-12_Science_Performance_Expectations_v5_496901_7.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","K-12_Science_Performance_Expectations_v5_496901_7","System.Collections.Generic.List`1[System.String]",,"K-12_Science_Performance_Expectations_v5_496901_7.pdf","1017137","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf",".pdf","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 8:52:54 AM","7/14/2016 12:52:54 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014","System.Collections.Generic.List`1[System.String]",,"South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","1167470","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf",".pdf","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 9:46:12 AM","7/14/2016 1:46:12 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\stds_scienceKinder.pdf","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","stds_scienceKinder.pdf","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\stds_scienceKinder.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","stds_scienceKinder","System.Collections.Generic.List`1[System.String]",,"stds_scienceKinder.pdf","61430","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Sciences\stds_scienceKinder.pdf",".pdf","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 8:49:38 AM","7/14/2016 12:49:38 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\Index_Table_Contents.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","Index_Table_Contents.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\Index_Table_Contents.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Index_Table_Contents","System.Collections.Generic.List`1[System.String]",,"Index_Table_Contents.xlsx","60765","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\Index_Table_Contents.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:54 AM","12/12/2022 7:11:54 AM","7/14/2016 9:47:06 AM","7/14/2016 1:47:06 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\NYCProject-RACI_v2.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","NYCProject-RACI_v2.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\NYCProject-RACI_v2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","NYCProject-RACI_v2","System.Collections.Generic.List`1[System.String]",,"NYCProject-RACI_v2.xlsx","37554","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\NYCProject-RACI_v2.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","7/14/2016 11:02:42 AM","7/14/2016 3:02:42 PM","Archive, ReparsePoint"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx","Microsoft.PowerShell.Core\FileSystem::C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","Windows 10 ADMX spreadsheet.xlsx","C","Microsoft.PowerShell.Core\FileSystem","False","-a---l","File:             C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Windows 10 ADMX spreadsheet","System.Collections.Generic.List`1[System.String]",,"Windows 10 ADMX spreadsheet.xlsx","659768","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates","False","True","C:\Users\Hasan Hashim\OneDrive\Desktop\champlain\SYS-320\Week14\homework\Documents\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx",".xlsx","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","12/12/2022 2:11:22 AM","12/12/2022 7:11:22 AM","7/14/2016 8:54:58 AM","7/14/2016 12:54:58 PM","Archive, ReparsePoint"
